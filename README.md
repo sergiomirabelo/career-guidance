@@ -192,7 +192,7 @@ criação de sistema real com recomendações inteligentes
 
 Atende 100% dos requisitos solicitados pelo professor.
 
-🎥 Demonstração (opcional)
+🎥 Demonstração 
 
-Você pode gravar um vídeo curto de 10–20 segundos rodando o programa e colocar o link aqui.
+https://youtu.be/QR3hU7PauaA
 
