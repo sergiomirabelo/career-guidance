@@ -1,0 +1,39 @@
+[
+  {
+    "nome": "Engenheiro de IA",
+    "descricao": "Desenvolve modelos de IA",
+    "requisitos": {
+      "Lógica": 8,
+      "Matemática": 7,
+      "Programação": 8,
+      "Criatividade": 6
+    }
+  },
+  {
+    "nome": "Designer de Experiência",
+    "descricao": "Projetar experiências digitais",
+    "requisitos": {
+      "Criatividade": 8,
+      "Colaboração": 7,
+      "Comunicação": 7
+    }
+  },
+  {
+    "nome": "Gestor de Produto",
+    "descricao": "Orquestra produtos digitais",
+    "requisitos": {
+      "Comunicação": 8,
+      "Liderança": 7,
+      "Adaptabilidade": 7
+    }
+  },
+  {
+    "nome": "Cientista de Dados",
+    "descricao": "Analisa dados e gera insights",
+    "requisitos": {
+      "Estatística": 8,
+      "Programação": 7,
+      "Lógica": 7
+    }
+  }
+]
