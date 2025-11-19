@@ -1,9 +1,9 @@
-🧭 Sistema de Orientação de Carreiras (Python + OO)
+Sistema de Orientação de Carreiras (Python + OO)
 
 Este projeto é uma ferramenta de orientação profissional baseada em Python, utilizando Programação Orientada a Objetos (POO) e estruturas como listas, dicionários e módulos.
 O objetivo é analisar perfis de candidatos e recomendar carreiras do futuro, além de sugerir trilhas de aprendizado com base nas competências informadas.
 
-📌 Objetivo do Projeto
+Objetivo do Projeto
 
 Criar um sistema capaz de:
 
@@ -19,7 +19,7 @@ Exibir trilhas personalizadas de desenvolvimento profissional
 
 O projeto simula uma ferramenta inteligente de orientação de carreiras, conectando lógica de programação e desenvolvimento humano.
 
-🛠️ Tecnologias e Conceitos Utilizados
+Tecnologias e Conceitos Utilizados
 
 Python 3
 
@@ -35,7 +35,7 @@ Leitura e escrita automática de JSON
 
 Cálculo de score e recomendações personalizadas
 
-📂 Estrutura do Projeto
+Estrutura do Projeto
 career-guidance/
 ├─ README.md
 ├─ src/
@@ -47,8 +47,8 @@ career-guidance/
 └─ sample_data/
    └─ careers.json       # Base de carreiras (criado automaticamente)
 
-🧩 Como o Sistema Funciona
-1️⃣ Cadastro de Perfil
+Como o Sistema Funciona
+Cadastro de Perfil
 
 O usuário informa:
 
@@ -58,39 +58,39 @@ Competências (ex: Lógica, Programação, Criatividade)
 
 Níveis de 0 a 10
 
-2️⃣ Avaliação
+Avaliação
 
 O sistema compara o perfil com as carreiras disponíveis usando dicionários.
 
-3️⃣ Score de Compatibilidade
+Score de Compatibilidade
 
 Para cada carreira, calcula:
 
 compatibilidade = média_percentual das competências
 
-4️⃣ Sugestão de Trilhas
+Sugestão de Trilhas
 
 Se a carreira pede uma habilidade maior do que o usuário tem:
 
 O sistema recomenda cursos, estudos e melhorias
 
-▶️ Como Executar o Projeto
-1️⃣ Abra o Terminal / PowerShell
+Como Executar o Projeto
+Abra o Terminal / PowerShell
 
 Entre na pasta do projeto:
 
 cd caminho/para/career-guidance
 
-2️⃣ Execute o sistema:
+Execute o sistema:
 python -m src.cli
 
-3️⃣ Use o menu:
+Use o menu:
 === Orientação de Carreiras ===
 1) Cadastrar perfil
 2) Avaliar perfil
 3) Sair
 
-🧪 Exemplo de Execução
+Exemplo de Execução
 1. Iniciando o programa
 python src/cli.py
 
@@ -143,7 +143,7 @@ Trilhas sugeridas:
 7. Encerramento
 Obrigado por utilizar o sistema!
 
-🧠 Classes Implementadas
+Classes Implementadas
 Perfil
 
 nome
@@ -176,7 +176,7 @@ cria automaticamente careers.json
 
 carrega carreiras para o sistema
 
-🎯 Conclusão
+Conclusão
 
 Este projeto demonstra:
 
